@@ -4,4 +4,4 @@ Implementation of "Transductive Zero-Shot Learning for 3D Point Cloud Classifica
 
 # feature vector
 
-(https://drive.google.com/drive/folders/15-XswOjj_9s2BAxnJiIutEuUXolIXPK9?usp=sharing)
+[feature vectors of ModelNet, McGill, and SHEREC2015 datasets using PointNet](https://drive.google.com/drive/folders/15-XswOjj_9s2BAxnJiIutEuUXolIXPK9?usp=sharing)
