@@ -4,3 +4,4 @@ Implementation of "Transductive Zero-Shot Learning for 3D Point Cloud Classifica
 
 # feature vector
 
+(https://drive.google.com/drive/folders/15-XswOjj_9s2BAxnJiIutEuUXolIXPK9?usp=sharing)
