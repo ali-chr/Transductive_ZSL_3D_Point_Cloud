@@ -16,7 +16,7 @@ If you find our work useful in your research, please consider citing:
 
 	@article{cheraghian2019transductive,
 	  title={Transductive Zero-Shot Learning for 3D Point Cloud Classification},
-	  author={Ali Cheraghian and Shafin Rahman and Dylan Campbell and Lars Petersson},
+	  author={Ali Cheraghian, Shafin Rahman, Dylan Campbell, and Lars Petersson},
 	  journal={arXiv preprint arXiv:1912.07161},
 	  year={2019}
 	}
