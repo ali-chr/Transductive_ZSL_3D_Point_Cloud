@@ -38,5 +38,5 @@ If you find our work useful in your research, please consider citing:
 
 
 # feature vector
-You can download the feature vectors, which is extracted from a pretrained PointNet architecure, of ModelNet, McGill, and SHEREC2015 datasets from the following link,
+You can download the feature vectors, which are extracted from a pretrained PointNet architecure, of ModelNet, McGill, and SHEREC2015 datasets from the following link,
 [feature vectors of ModelNet, McGill, and SHEREC2015 datasets using PointNet](https://drive.google.com/drive/folders/15-XswOjj_9s2BAxnJiIutEuUXolIXPK9?usp=sharing)
