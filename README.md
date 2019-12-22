@@ -14,16 +14,16 @@ This work is based on our [arXiv tech report](https://arxiv.org/abs/1912.07161),
 ### Citation
 If you find our work useful in your research, please consider citing:
 
-@misc{cheraghian2019transductive,
-    title={Transductive Zero-Shot Learning for 3D Point Cloud Classification},
-    author={Ali Cheraghian and Shafin Rahman and Dylan Campbell and Lars Petersson},
-    year={2019},
-    eprint={1912.07161},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
-}
+### Citation
+If you find our work useful in your research, please consider citing:
 
-
+	@article{cheraghian2019transductive,
+	  title={Transductive Zero-Shot Learning for 3D Point Cloud Classification},
+	  author={Ali Cheraghian and Shafin Rahman and Dylan Campbell and Lars Petersson},
+	  journal={arXiv preprint arXiv:1912.07161},
+	  year={2019}
+	}
+   
 
 
 
