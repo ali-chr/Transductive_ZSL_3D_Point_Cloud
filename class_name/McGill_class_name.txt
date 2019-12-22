@@ -1,0 +1,15 @@
+ant
+bird
+crab
+dinosaur
+dolphin
+fish
+quadruped
+hand
+human
+octopus
+pliers
+snake
+spectacle
+spider
+teddy
