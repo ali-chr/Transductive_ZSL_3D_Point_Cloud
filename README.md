@@ -7,6 +7,8 @@ Created by [Ali Cheraghian](https://scholar.google.com/citations?user=QT0EXIkAAA
 # Introduction
 This work is based on our [arXiv tech report](https://arxiv.org/abs/1912.07161), which is going to appear in WACV 2020. We proposed a novel transductive zero-shot learning approaach for 3D point clouds. 
 
+In the "class_name" folder, the class names of seen and unseen sets from all datasets, ModelNet, McGill, and SHEREC2015, are shown. Also, the "word_vector" folder contains the semantic word vectors of all datasets.  
+
 
 
 
