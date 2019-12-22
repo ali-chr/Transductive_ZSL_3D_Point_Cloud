@@ -14,9 +14,6 @@ This work is based on our [arXiv tech report](https://arxiv.org/abs/1912.07161),
 ### Citation
 If you find our work useful in your research, please consider citing:
 
-### Citation
-If you find our work useful in your research, please consider citing:
-
 	@article{cheraghian2019transductive,
 	  title={Transductive Zero-Shot Learning for 3D Point Cloud Classification},
 	  author={Ali Cheraghian and Shafin Rahman and Dylan Campbell and Lars Petersson},
