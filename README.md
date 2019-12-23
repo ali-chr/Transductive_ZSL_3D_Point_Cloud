@@ -48,5 +48,5 @@ You can download the feature vectors, which are extracted from a pretrained Poin
 ## Reference
 [1] A.  Cheraghian,  S.  Rahman,  and  L.  Petersson.    Zero-shotlearning  of  3d  point  cloud  objects.   InInternational  Con-ference on Machine Vision Applications (MVA), 2019. 
 
-[2] A. Cheraghian, S. Rahman, D. Campbell, and L. Petersson.Mitigating the hubness problem for zero-shot learning of 3dobjects.  InBritish Machine Vision Conference (BMVC’19),2019. 
+[2] A. Cheraghian, S. Rahman, D. Campbell, and L. Petersson.Mitigating the hubness problem for zero-shot learning of 3dobjects.  InBritish Machine Vision Conference (BMVC’19), 2019. 
 
