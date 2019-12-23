@@ -15,15 +15,7 @@ In the "class_name" folder, the class names of seen and unseen sets from all 3D 
 
 
 
-# Citation
-If you find our work useful in your research, please consider citing:
 
-	@article{cheraghian2019transductive,
-	  title={Transductive Zero-Shot Learning for 3D Point Cloud Classification},
-	  author={Ali Cheraghian, Shafin Rahman, Dylan Campbell, and Lars Petersson},
-	  journal={arXiv preprint arXiv:1912.07161},
-	  year={2019}
-	}
    
 # Train & Test codes
 Coming soon ...
@@ -45,7 +37,15 @@ You can download the feature vectors, which are extracted from a pretrained Poin
 
 [feature vectors of ModelNet, McGill, and SHEREC2015 datasets using PointNet](https://drive.google.com/drive/folders/15-XswOjj_9s2BAxnJiIutEuUXolIXPK9?usp=sharing)
 
+# Citation
+If you find our work useful in your research, please consider citing:
 
+	@article{cheraghian2019transductive,
+	  title={Transductive Zero-Shot Learning for 3D Point Cloud Classification},
+	  author={Ali Cheraghian, Shafin Rahman, Dylan Campbell, and Lars Petersson},
+	  journal={arXiv preprint arXiv:1912.07161},
+	  year={2019}
+	}
 
 ## Reference
 [1] A.  Cheraghian,  S.  Rahman,  and  L.  Petersson.    Zero-shotlearning  of  3d  point  cloud  objects.   InInternational  Con-ference on Machine Vision Applications (MVA), 2019. 
