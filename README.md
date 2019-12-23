@@ -28,7 +28,8 @@ Coming soon ...
 
 
 
-
+# Evaluation protocols
+The evaluation protocols for ZSL and GZSL in this project were introduced by [1] and [2] respectively. 
 
 
 
@@ -41,3 +42,11 @@ Coming soon ...
 You can download the feature vectors, which are extracted from a pretrained PointNet architecure, of ModelNet, McGill, and SHEREC2015 datasets from the following link,
 
 [feature vectors of ModelNet, McGill, and SHEREC2015 datasets using PointNet](https://drive.google.com/drive/folders/15-XswOjj_9s2BAxnJiIutEuUXolIXPK9?usp=sharing)
+
+
+
+## Reference
+[1] A.  Cheraghian,  S.  Rahman,  and  L.  Petersson.    Zero-shotlearning  of  3d  point  cloud  objects.   InInternational  Con-ference on Machine Vision Applications (MVA), 2019. 
+
+[2] A. Cheraghian, S. Rahman, D. Campbell, and L. Petersson.Mitigating the hubness problem for zero-shot learning of 3dobjects.  InBritish Machine Vision Conference (BMVC’19),2019. 
+
