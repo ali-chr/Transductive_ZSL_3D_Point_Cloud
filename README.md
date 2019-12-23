@@ -7,6 +7,8 @@ Created by [Ali Cheraghian](https://scholar.google.com/citations?user=QT0EXIkAAA
 # Introduction
 This work is based on our [arXiv tech report](https://arxiv.org/abs/1912.07161), which is going to appear in WACV 2020. We proposed a novel transductive zero-shot learning approaach for 3D point clouds. 
 
+Zero-shot learning, the task of learning to recognize newclasses  not  seen  during  training,  has  received  consider-able attention in the case of 2D image classification. However despite the increasing ubiquity of 3D sensors, the corresponding 3D point cloud classification problem has notbeen meaningfully explored and introduces new challenges. This  project  extends,  for  the  first  time,  transductive  Zero-Shot Learning (ZSL) and Generalized Zero-Shot Learning(GZSL) approaches to the domain of 3D point cloud clas-sification. 
+
 In the "class_name" folder, the class names of seen and unseen sets from all 3D datasets are shown. Also, the "word_vector" folder contains the semantic word vectors of 3D datasets.  
 
 
