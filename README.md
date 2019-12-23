@@ -50,5 +50,5 @@ If you find our work useful in your research, please consider citing:
 ## Reference
 [1] A.  Cheraghian,  S.  Rahman,  and  L.  Petersson.    Zero-shot learning  of  3d  point  cloud  objects.   In International  Conference on Machine Vision Applications (MVA), 2019. 
 
-[2] A. Cheraghian, S. Rahman, D. Campbell, and L. Petersson. Mitigating the hubness problem for zero-shot learning of 3D objects.  InBritish Machine Vision Conference (BMVC), 2019. 
+[2] A. Cheraghian, S. Rahman, D. Campbell, and L. Petersson. Mitigating the hubness problem for zero-shot learning of 3D objects.  In British Machine Vision Conference (BMVC), 2019. 
 
