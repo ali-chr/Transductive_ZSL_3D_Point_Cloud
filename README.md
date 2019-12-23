@@ -32,7 +32,7 @@ The evaluation protocols for ZSL and GZSL in this project were introduced by [1]
 
 
 
-# feature vector
+# Feature vector
 You can download the feature vectors, which are extracted from a pretrained PointNet architecure, of ModelNet, McGill, and SHEREC2015 datasets from the following link,
 
 [feature vectors of ModelNet, McGill, and SHEREC2015 datasets using PointNet](https://drive.google.com/drive/folders/15-XswOjj_9s2BAxnJiIutEuUXolIXPK9?usp=sharing)
