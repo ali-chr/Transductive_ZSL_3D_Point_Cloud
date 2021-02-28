@@ -52,3 +52,5 @@ If you find our work useful in your research, please consider citing:
 
 [2] A. Cheraghian, S. Rahman, D. Campbell, and L. Petersson. Mitigating the hubness problem for zero-shot learning of 3D objects.  In British Machine Vision Conference (BMVC), 2019. 
 
+[3] A. Cheraghian, S. Rahman, D. Campbell, and L. Petersson. Transductive Zero-Shot Learning for 3D Point Cloud Classification.  In Winter Conference on Applications of Computer Vision (WACV), 2020. 
+
