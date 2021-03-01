@@ -35,7 +35,7 @@ The evaluation protocols for ZSL and GZSL in this project were introduced by [1]
 # Feature vector
 You can download the feature vectors, which are extracted from PointNet, PointAugment, DGCNN, and PointConv architecures, of ModelNet, McGill, and ScanObjectNN datasets from the following link,
 
-[feature vectors of ModelNet, McGill, and SHEREC2015 datasets using PointNet](https://drive.google.com/drive/folders/15-XswOjj_9s2BAxnJiIutEuUXolIXPK9?usp=sharing)
+[feature vectors of ModelNet, McGill, and ScanObjectNN datasets using PointNet](https://drive.google.com/drive/folders/1XgYRhG6PY5AVLFSWlD0oWCeQbb3JIrSy?usp=sharing)
 
 # Citation
 If you find our work useful in your research, please consider citing:
