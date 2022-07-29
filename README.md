@@ -40,12 +40,13 @@ You can download the feature vectors, which are extracted from PointNet, PointAu
 # Citation
 If you find our work useful in your research, please consider citing:
 
-	@article{cheraghian2019transductive,
-	  title={Transductive Zero-Shot Learning for 3D Point Cloud Classification},
-	  author={Ali Cheraghian, Shafin Rahman, Dylan Campbell, and Lars Petersson},
-	  journal={arXiv preprint arXiv:1912.07161},
-	  year={2019}
+	@article{cheraghian2022ZSL,
+	  title={Zero-Shot Learning on 3D Point Cloud Objects and Beyond},
+	  author={Ali Cheraghian, Shafin Rahman,  Townim F. Chowdhury, Dylan Campbell, and Lars Petersson},
+	  journal={International Journal of Computer Vision},
+	  year={2022}
 	}
+	
 
 ## Reference
 [1] A.  Cheraghian,  S.  Rahman,  and  L.  Petersson.    Zero-shot learning  of  3d  point  cloud  objects.   In International  Conference on Machine Vision Applications (MVA), 2019. 
