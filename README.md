@@ -64,7 +64,7 @@ The following are the arguments of both scripts:
 # Feature vector
 You can download the feature vectors, which are extracted from PointNet, PointAugment, DGCNN, and PointConv architecures, of ModelNet, McGill, and ScanObjectNN datasets from the following link,
 
-[feature vectors of ModelNet, McGill, and ScanObjectNN datasets]([https://drive.google.com/drive/folders/1XgYRhG6PY5AVLFSWlD0oWCeQbb3JIrSy?usp=sharing](https://drive.google.com/drive/folders/1y8HbxfBWzIzZ4pH-L1wi07pfuhGy8R2m?usp=sharing))
+[feature vectors of ModelNet, McGill, and ScanObjectNN datasets](https://drive.google.com/drive/folders/1y8HbxfBWzIzZ4pH-L1wi07pfuhGy8R2m?usp=sharing)
 
 # Citation
 If you find our work useful in your research, please consider citing:
