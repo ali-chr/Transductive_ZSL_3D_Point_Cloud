@@ -28,9 +28,6 @@ torchvision==0.9.1+cu111
 typing-extensions==3.7.4.3
 ```
 
-## Data
-In the [data](data) folder, you can find all of the 3D datasets (ModelNet, McGill, and ScanObjectNN); feature vectors of all backbones are present, as well as word2vec.
-
 ## Training & Evaluation
 
 The [config](config) folder includes configuration files for all datasets.
@@ -67,7 +64,7 @@ The following are the arguments of both scripts:
 # Feature vector
 You can download the feature vectors, which are extracted from PointNet, PointAugment, DGCNN, and PointConv architecures, of ModelNet, McGill, and ScanObjectNN datasets from the following link,
 
-[feature vectors of ModelNet, McGill, and ScanObjectNN datasets](https://drive.google.com/drive/folders/1XgYRhG6PY5AVLFSWlD0oWCeQbb3JIrSy?usp=sharing)
+[feature vectors of ModelNet, McGill, and ScanObjectNN datasets]([https://drive.google.com/drive/folders/1XgYRhG6PY5AVLFSWlD0oWCeQbb3JIrSy?usp=sharing](https://drive.google.com/drive/folders/1y8HbxfBWzIzZ4pH-L1wi07pfuhGy8R2m?usp=sharing))
 
 # Citation
 If you find our work useful in your research, please consider citing:
