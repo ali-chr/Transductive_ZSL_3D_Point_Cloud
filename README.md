@@ -64,24 +64,6 @@ The following are the arguments of both scripts:
 
 
 
-
-
-   
-# Train & Test codes
-Coming soon ...
-
-
-
-# Evaluation protocols
-The evaluation protocols for ZSL and GZSL in this project were introduced by [1] and [2] respectively. 
-
-
-
-
-
-
-
-
 # Feature vector
 You can download the feature vectors, which are extracted from PointNet, PointAugment, DGCNN, and PointConv architecures, of ModelNet, McGill, and ScanObjectNN datasets from the following link,
 
