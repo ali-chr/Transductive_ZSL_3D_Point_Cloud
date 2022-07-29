@@ -1,4 +1,4 @@
-# Transductive Zero-Shot Learning for 3D Point Cloud Classification
+# Zero-shot learning on 3d point cloud objects and beyond
 
 
 Created by [Ali Cheraghian](https://scholar.google.com/citations?user=QT0EXIkAAAAJ&hl=en) from Australian National University.
