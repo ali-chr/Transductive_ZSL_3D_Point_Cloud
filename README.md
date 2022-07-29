@@ -54,3 +54,5 @@ If you find our work useful in your research, please consider citing:
 
 [3] A. Cheraghian, S. Rahman, D. Campbell, and L. Petersson. Transductive Zero-Shot Learning for 3D Point Cloud Classification.  In Winter Conference on Applications of Computer Vision (WACV), 2020. 
 
+[4] A. Cheraghian, S. Rahman,  T. F. Chowdhury, D. Campbell, and L. Petersson. Zero-Shot Learning on 3D Point Cloud Objects and Beyond.  In International Journal of Computer Vision (IJCV), 2022. 
+
