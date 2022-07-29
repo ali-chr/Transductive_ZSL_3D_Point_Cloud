@@ -13,6 +13,13 @@ Zero-shot learning, the task of learning to recognize new classes not seen durin
 
 ![Unseen_fea-1](https://user-images.githubusercontent.com/52984527/181682439-6bcfdeea-955b-4d54-8a33-b260e9ec128d.png)
 
+Visualization of unseen point cloud feature vectors (circles) with four backbone networks. Since
+the synthetic data has less noise, ModelNet40 features are clustered better than the real scanned 3D data (with
+noise) from ScanObjectNN. Moreover, for both datasets, the models are trained on synthetic instances belonging
+to a subset of ModelNet40 classes, and so we expect the ModelNet10 features to be better clustered than the
+ScanObjectNN features. We obtained the best overall performance using the PointConv backbone.
+
+
 
 
 ## Requirements
