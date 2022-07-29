@@ -15,6 +15,55 @@ In the "class_name" folder, the class names of seen and unseen sets from all 3D 
 
 
 
+## Requirements
+Requirements can be found in [this](requirements.txt) file.
+```
+numpy==1.20.2
+Pillow==8.2.0
+PyYAML==5.4.1
+scipy==1.6.2
+torch==1.8.1+cu111
+torchaudio==0.8.1
+torchvision==0.9.1+cu111
+typing-extensions==3.7.4.3
+```
+
+## Data
+In the [data](data) folder, you can find all of the 3D datasets (ModelNet, McGill, and ScanObjectNN); feature vectors of all backbones are present, as well as word2vec.
+
+## Training & Evaluation
+
+The [config](config) folder includes configuration files for all datasets.
+
+For inductive training, you can run this command.
+```
+python train_inductive.py
+```
+
+For transductive training, you can run this command.
+
+```
+python train_transductive.py
+```
+
+The following are the arguments of both scripts:
+``` 
+-h, --help       
+    show this help message and exit
+--dataset {ModelNet,ScanObjectNN,McGill}        
+    name of dataset i.e. ModelNet, ScanObjectNN, McGill
+--backbone {EdgeConv,PointAugment,PointConv,PointNet}       
+    name of backbone i.e. EdgeConv, PointAugment, PointConv, PointNet 
+--method {ours,baseline}
+    name of method i.e. ours, baseline
+--config_path CONFIG_PATH
+    configuration path 
+```
+
+
+
+
+
 
 
    
