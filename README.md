@@ -66,6 +66,7 @@ You can download the feature vectors, which are extracted from PointNet, PointAu
 # Model
 
 You can download the trained PointNet, PointAugment, DGCNN, and PointConv architecures, of ModelNet, McGill, and ScanObjectNN datasets from the following link,
+
 [Model](https://drive.google.com/drive/folders/1y8HbxfBWzIzZ4pH-L1wi07pfuhGy8R2m?usp=sharing)
 
 
