@@ -1,0 +1,15 @@
+seen_class : 30
+unseen_class : 10
+total_class : 40
+dataset_path : 'data/ModelNet/'
+saved_model : 'saved_model/ModelNet/'
+
+epoch : 5 
+batch_size : 64
+lr : 1e-4 
+wd : 1e-6
+
+
+alpha_triplet: 0.001
+alpha_hubness: 0.2
+alpha_unbiased: 0.001
