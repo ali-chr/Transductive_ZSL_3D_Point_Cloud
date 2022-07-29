@@ -17,7 +17,7 @@ Visualization of unseen point cloud feature vectors (circles) with four backbone
 the synthetic data has less noise, ModelNet40 features are clustered better than the real scanned 3D data (with
 noise) from ScanObjectNN. Moreover, for both datasets, the models are trained on synthetic instances belonging
 to a subset of ModelNet40 classes, and so we expect the ModelNet10 features to be better clustered than the
-ScanObjectNN features. We obtained the best overall performance using the PointConv backbone.
+ScanObjectNN features.
 
 
 
