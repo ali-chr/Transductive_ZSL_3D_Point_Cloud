@@ -1,8 +1,8 @@
 seen_class : 30
 unseen_class : 10
 total_class : 40
-dataset_path : 'data/ModelNet/'
-saved_model : 'saved_model/ModelNet/'
+dataset_path : '/content/drive/MyDrive/transductive_zsl/data/data/ModelNet/'
+saved_model : '/content/drive/MyDrive/transductive_zsl/savedmodel/saved_model/ModelNet/'
 
 epoch : 5 
 batch_size : 64

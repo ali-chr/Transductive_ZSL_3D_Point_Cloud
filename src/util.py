@@ -245,7 +245,7 @@ def train_per_epoch_baseline_transductive(model, optimizer, step_batch_size, ste
         # visual
         batch_x_visual = torch.from_numpy(batch_x_visual)
         batch_x_visual_unseen = batch_x_visual.to(device)
-        loss_tran = transductive_triplet_loss(batch_x_visual_unseen,batch_x_semantic_proj,alpha=1.1) 
+        loss_tran = transductive_triplet_loss(batch_x_visual_unseen,batch_x_semantic_proj,batch_size,alpha=1.1) 
         Loss_tran = 1.0*loss_tran
         #### final loss
         Loss = Loss_ind + config['alpha_triplet']*Loss_tran
